@@ -8,6 +8,6 @@ objectDetect.py
 3. 이미지 전송 - 
 sendImg.py
 4. 로봇 팔 제어 - 
-robotArm.py
+robotArm folder
 5. 웹 페이지 - 
-(master) webRecycle folder
+webpage folder
