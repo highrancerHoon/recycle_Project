@@ -1,3 +1,4 @@
+
 import threading
 import RPi.GPIO as GPIO
 import cv2
@@ -261,8 +262,3 @@ try:
 except Exception as e:
     print(f"에러 발생: {e}")
     
-
-
-
-
-
